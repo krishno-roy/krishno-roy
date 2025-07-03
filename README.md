@@ -59,10 +59,16 @@ With a blend of analytics and cutting-edge web technologies, I empower businesse
 
 ### 📫 Let's Connect
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]([https://facebook.com/krishno.dev](https://www.facebook.com/profile.php?id=61574827814281))  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/krishnoroy](https://www.linkedin.com/in/krishno-rooy/))  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://instagram.com/krishno.roy](https://www.instagram.com/krishnooroy/))  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801738612417)  
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)]([https://twitter.com/krishnoroy](https://x.com/KRISHNO30461710))  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574827814281)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishno-rooy/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/krishnooroy/)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801738612417)
+
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/KRISHNO30461710)
+
 [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://krishnoroy.com)
+
 
