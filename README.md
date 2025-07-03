@@ -24,12 +24,36 @@
 
 ---
 
-I'm a Full Stack Developer with a love for **Vue.js, React, Laravel, WordPress**, and modern web technologies.  
-I'm currently open to freelance and collaboration opportunities.
+I’m a passionate and results-driven Digital Analytics & Web Solutions Expert, specializing in advanced tracking, data visualization, and modern web development. With a strong focus on conversion optimization and data-driven decision making, I help businesses gain deeper insights and boost their marketing performance through accurate tracking and impactful reporting.
 
-- 🌐 Co-founder of WebvisionsBD
-- 🧑‍🏫 Sharing tips on GitHub, JavaScript, and WordPress
-- 🎯 Passionate about UI/UX and performance
+## 🎯 Services I Offer
+
+### 🔎 Marketing & Tracking
+- Google Analytics 4 (GA4) setup
+- Google Tag Manager (GTM) implementation
+- Google Ads Conversion API
+- Facebook Ads Conversion API
+- Server-side tracking (GTM Server Container)
+- Snapchat, TikTok & LinkedIn tracking
+- Cookie Consent V2 implementation (GDPR/CCPA)
+
+### 📊 Data Visualization
+- Looker Studio (Google Data Studio)
+- Real-time dashboards & campaign performance tracking
+
+### 🌐 Web Design & Development
+- WordPress Customization
+- Shopify Store Setup & Optimization
+- React.js Applications
+- Next.js Full-stack Solutions
+
+## 💡 What I Bring
+With a blend of analytics and cutting-edge web technologies, I empower businesses to:
+- Track better
+- Convert more
+- Grow faster
+
+📩 **Let’s connect and turn your data into growth!**
 
 ---
 
