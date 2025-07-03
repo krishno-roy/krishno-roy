@@ -42,7 +42,7 @@ I’m a passionate and results-driven Digital Analytics & Web Solutions Expert, 
 - Real-time dashboards & campaign performance tracking
 
 ### 🌐 Web Design & Development
-- WordPress Customization
+- WordPress Website Design
 - Shopify Store Setup & Optimization
 - React.js Applications
 - Next.js Full-stack Solutions
